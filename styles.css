@@ -94,6 +94,19 @@ a{
     background-color: #e7e7e7;
 }
 
+
+#pie .logoFreepik {
+    float: left;
+    padding-left: 30px;
+    width: 70px;
+}
+
+#pie .imagesDesignedBy {
+    width: 150px;
+    float: left;
+    margin: 0 auto;
+}
+
 /*IMG*/
 
 #slide_presentacion{
